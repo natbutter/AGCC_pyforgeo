@@ -34,16 +34,23 @@ conda create -n pyforgeo python=3.6 scipy=0.19 scikit-learn=0.18 matplotlib=2.0 
 ## Instructions
 We will be working through a series of Jupyter Notebooks in the following order. 
 
-Intro_Python_Geo.ipynb
+* [Introduction](Examples/Intro_Python_Geo.ipynb): A primer on Python, Jupyter, scripting, coding, everything!
+* [Data Science for Geoscience](Examples/ML_Geo.ipynb): An example that uses basic machine learning tools in the context of geoscience.
+
 
  
 ## Presenter Bios
+
 **Nathaniel Butterworth**
+
 nathaniel.butterworth@sydney.edu.au 
+
 Nathaniel has worked as a postdoctoral research associate in the EarthByte group at the University of Sydney. Here he learned the crafts of data mining and machine learning on big data projects. Prior to this he completed a PhD in geosciences entitled, “The dynamics of subduction and its tectonic implications”. Before pursuing geophysics he received his BSc from the University of Wollongong in 2008 and his honours in astrophysics from the University of Sydney in 2009. Nathaniel, now with the Sydney Informatics Hub, trains researchers in data science and high-performance computing.
  
 **Madhura Killedar**
+
 madhura.killedar@sydney.edu.au
+
 Dr Madhura Killedar is a research engineer at the University of Sydney where she applies Bayesian and machine learning techniques to a range of disciplines from geoscience & paleo-climate to medical research. She received her PhD in physics in 2011, then conducted postdoctoral research in gravitational lensing, cosmology and astro-statistics in Italy and Germany. Madhura returned to Australia to develop and calibrate computational population health models at the Burnet Institute in collaboration with the World Bank, before starting her current data science role at the Sydney Informatics Hub.
  
 
