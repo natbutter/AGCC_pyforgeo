@@ -1,2 +1,49 @@
 # AGCC_pyforgeo
-Python for Geoscientists course at the AGCC 2018
+Introduction to Python for Geoscientists at the Australian Geoscience Council Convention 2018
+
+ 
+## Workshop Description
+Take your geoscience data management and analysis to the next level with an introduction to Python. Python has deservedly become a popular language for scientific computing. It has all the friendly features and conveniences you would expect of a modern programming language. It boasts a rich set of libraries used and developed by geoscientists for working with data. The Python programming language offers adaptability and versatility to the types of analyses, modelling, and workflows that geoscientists utilise.
+ 
+## In this course you will learn:
+* Basic programming concepts and techniques.
+* Syntax, control statements, and Python data types.
+* How to use well-developed libraries (e.g. Numpy, Scipy).
+* Data frames and data wrangling using Pandas.
+* Visualisation in Python using matplotlib
+* Machine learning strategies from the scikit-learn library
+ 
+We will teach the course using Jupyter notebooks, which allow Python code, results, visualisations and documentation to be blended seamlessly. This platform is perfect for sharing insights with others while producing reproducible research.
+ 
+
+## Prerequisites 
+Have Python 3 installed with these packages:
+* jupyter 
+* matplotlib
+* numpy
+* scipy
+* scikit-learn
+* pandas
+* basemap
+* pyshp
+ 
+If you use the anaconda python package manager, this command should set up a correct environment for us to work in:
+ 
+conda create -n pyforgeo python=3.6 scipy=0.19 scikit-learn=0.18 matplotlib=2.0 pyshp=1.2 numpy=1.12 jupyter=1.0 basemap=1.0 pandas=0.20
+
+## Instructions
+We will be working through a series of Jupyter Notebooks in the following order. 
+
+Intro_Python_Geo.ipynb
+
+ 
+## Presenter Bios
+**Nathaniel Butterworth**
+nathaniel.butterworth@sydney.edu.au 
+Nathaniel has worked as a postdoctoral research associate in the EarthByte group at the University of Sydney. Here he learned the crafts of data mining and machine learning on big data projects. Prior to this he completed a PhD in geosciences entitled, “The dynamics of subduction and its tectonic implications”. Before pursuing geophysics he received his BSc from the University of Wollongong in 2008 and his honours in astrophysics from the University of Sydney in 2009. Nathaniel, now with the Sydney Informatics Hub, trains researchers in data science and high-performance computing.
+ 
+**Madhura Killedar**
+madhura.killedar@sydney.edu.au
+Dr Madhura Killedar is a research engineer at the University of Sydney where she applies Bayesian and machine learning techniques to a range of disciplines from geoscience & paleo-climate to medical research. She received her PhD in physics in 2011, then conducted postdoctoral research in gravitational lensing, cosmology and astro-statistics in Italy and Germany. Madhura returned to Australia to develop and calibrate computational population health models at the Burnet Institute in collaboration with the World Bank, before starting her current data science role at the Sydney Informatics Hub.
+ 
+
