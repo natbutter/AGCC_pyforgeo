@@ -34,8 +34,8 @@ conda create -n pyforgeo python=3.6 scipy=0.19 scikit-learn=0.18 matplotlib=2.0 
 ## Instructions
 We will be working through a series of Jupyter Notebooks in the following order. 
 
-* [Introduction](Examples/Intro_Python_Geo.ipynb): A primer on Python, Jupyter, scripting, coding, everything!
-* [Data Science for Geoscience](Examples/ML_Geo.ipynb): An example that uses basic machine learning tools in the context of geoscience.
+* [Introduction](examples/Intro_Python_Geo.ipynb): A primer on Python, Jupyter, scripting, coding, everything!
+* [Data Science for Geoscience](examples/ML_Geo.ipynb): An example that uses basic machine learning tools in the context of geoscience.
 
 
  
