@@ -1,6 +1,7 @@
 # AGCC_pyforgeo
 Introduction to Python for Geoscientists at the Australian Geoscience Council Convention 2018
 
+## Please note. This repo is being updated, you may need to download it again closer to the workshop.
  
 ## Workshop Description
 Take your geoscience data management and analysis to the next level with an introduction to Python. Python has deservedly become a popular language for scientific computing. It has all the friendly features and conveniences you would expect of a modern programming language. It boasts a rich set of libraries used and developed by geoscientists for working with data. The Python programming language offers adaptability and versatility to the types of analyses, modelling, and workflows that geoscientists utilise.
