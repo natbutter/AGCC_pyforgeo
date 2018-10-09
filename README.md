@@ -30,7 +30,21 @@ Have Python 3 installed with these packages:
  
 If you use the anaconda python package manager, this command should set up a correct environment for us to work in:
  
-conda create -n pyforgeo python=3.6 scipy=0.19 scikit-learn=0.18 matplotlib=2.0 pyshp=1.2 numpy=1.12 jupyter=1.0 basemap=1.0 pandas=0.20
+```conda create -n pyforgeo python=3.6 scipy=0.19 scikit-learn=0.18 matplotlib=2.0 pyshp=1.2 numpy=1.12 jupyter=1.0 basemap=1.0 pandas=0.20
+
+### Windows users
+
+If you are using Anaconda on Windows, the Basemap package does not like Python 3. So use these lines to install
+
+```conda create -n pyforgeo python=3.6 scipy=0.19 scikit-learn=0.18 matplotlib=2.0 pyshp=1.2 numpy=1.12 jupyter=1.0 pandas=0.20
+
+After the environment is installed, activate it
+
+```conda activate pyforgeo
+
+Then install basemap from an alternative source
+
+```conda install -c conda-forge basemap=1.0.8.dev0
 
 ## Instructions
 We will be working through a series of Jupyter Notebooks in the following order. 
