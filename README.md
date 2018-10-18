@@ -73,6 +73,6 @@ Nathaniel has worked as a postdoctoral research associate in the EarthByte group
 
 madhura.killedar@sydney.edu.au
 
-Dr Madhura Killedar is a research engineer at the University of Sydney where she applies Bayesian and machine learning techniques to a range of disciplines from geoscience & paleo-climate to medical research. She received her PhD in physics in 2011, then conducted postdoctoral research in gravitational lensing, cosmology and astro-statistics in Italy and Germany. Madhura returned to Australia to develop and calibrate computational population health models at the Burnet Institute in collaboration with the World Bank, before starting her current data science role at the Sydney Informatics Hub.
- 
+Dr Madhura Killedar is a data scientist at the Sydney Informatics Hub at the University of Sydney where she applies Bayesian and machine learning techniques to a range of disciplines from geoscience & paleo-climate to medical research, provides statistical consultation for graduate students, and helps teach programming courses in python and R. She received her PhD in physics in 2011, then conducted postdoctoral research in gravitational lensing, cosmology and astro-statistics in Italy and Germany. She has also worked in epidemiology and child nutrition developing computational models for the World Bank with a focus on optimising population health outcomes and uncertainty quantification, before moving to her current role.
 
+ 
