@@ -32,6 +32,8 @@ Have Python 3 installed with these packages:
 * basemap
 * pyshp
  
+### Mac or Linux users
+
 If you use the anaconda python package manager, this command should set up a correct environment for us to work in:
  
 ```conda create -n pyforgeo python=3.6 scipy=0.19 scikit-learn=0.18 matplotlib=2.0 pyshp=1.2 numpy=1.12 jupyter=1.0 basemap=1.0 pandas=0.20```
